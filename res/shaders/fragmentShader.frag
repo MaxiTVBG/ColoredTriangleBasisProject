@@ -1,4 +1,4 @@
-#version 460 core
+#version 410 core
 in vec3 vertexColor;  // Получаваме интерполирания цвят от vertex шейдъра
 out vec4 FragColor;
 
